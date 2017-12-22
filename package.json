@@ -1,0 +1,17 @@
+{
+  "name": "tiki-double",
+  "version": "0.0.1",
+  "description": "Tiki test double",
+  "main": "index.mjs",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node --experimental-modules spec"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tiki-spec": "0.0.1"
+  }
+}
