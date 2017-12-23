@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "tiki-spec": "0.0.1"
+    "tiki-spec": "0.0.2"
   }
 }
