@@ -13,5 +13,8 @@
   "license": "ISC",
   "devDependencies": {
     "tiki-spec": "0.0.2"
+  },
+  "dependencies": {
+    "deep-equal": "^1.0.1"
   }
 }
