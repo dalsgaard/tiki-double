@@ -1,6 +1,6 @@
 {
   "name": "tiki-double",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Tiki test double",
   "main": "index.mjs",
   "directories": {
